@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg5STEz+DoqEhP4OioSE/AYY=
+	</data>
+	<key>Application Name Shadow</key>
+	<false/>
+	<key>Background Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAIOtrCw+g9nYWD4Bhg==
+	</data>
+	<key>Dock Indicator Border Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg6moKD6DoqEhP4OZmBg/AYY=
+	</data>
+	<key>Item Height</key>
+	<real>35</real>
+	<key>Key Badge Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg5mYGD6DjIsLP4PT0lI/AYY=
+	</data>
+	<key>Maximum Width</key>
+	<real>0.49283739924430847</real>
+	<key>Panel Shadow</key>
+	<true/>
+	<key>Preview Border Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg+/ubj+D6ehoP4PW1VU/AYY=
+	</data>
+	<key>Selection Border Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg+/ubj+D6ehoP4PW1VU/AYY=
+	</data>
+	<key>Selection Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg9TTUz+D2dhYPoODggI/AYY=
+	</data>
+	<key>Selection Window Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg+/ubj+D6ehoP4PW1VU/AYY=
+	</data>
+	<key>Space Badge Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg4aFBT+DmpkZPwABhg==
+	</data>
+	<key>Window Name Color</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg8vKyj6D9/b2PoOEgwM/AYY=
+	</data>
+	<key>Window Name Shadow</key>
+	<false/>
+</dict>
+</plist>
