@@ -24,9 +24,9 @@ And select the `witchlayout` background you desire. Light or Dark.
 ![Dark](http://i.imgur.com/3ki2rOe.png)
 
 Hey there. Do you like dinosaurs? How about vim keybindings for Firefox?
-And [Solarized][solar] too? Check out [Solarized for Pentadactyl][pentasolr] too.
+And [Solarized][solar] too? Check out [Solarized for Pentadactyl][penta-solar] too.
 
 [witch]: http://manytricks.com/witch/
 [solar]: http://ethanschoonover.com/solarized
 [download]: https://github.com/claytron/witch-solarized/archive/master.zip
-[pentasolar]: https://github.com/claytron/pentadactyl-solarized#readme
+[penta-solar]: https://github.com/claytron/pentadactyl-solarized#readme
